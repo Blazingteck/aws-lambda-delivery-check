@@ -58,6 +58,8 @@ The code also validates nonnumeric amounts.
 5. Open the Test tab and enter a JSON event.
 6. Run the test and inspect the response.
 
+   
+
 ## Current scope
 
 The function has been deployed and tested using direct JSON events in the AWS Lambda console.
@@ -65,3 +67,6 @@ The function has been deployed and tested using direct JSON events in the AWS La
 ## Planned enhancement
 
 Connect the function to Amazon API Gateway and adapt it to process HTTP requests and return HTTP responses.
+## Project screenshot
+
+![AWS Lambda delivery checker project](Lambda.jpg)
