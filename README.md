@@ -103,3 +103,8 @@ The body contains the JSON delivery result or validation message.
 ## Current scope
 
 The function has been deployed and tested through both the Lambda console and API Gateway.
+## API test results illustration
+
+![Delivery eligibility API test results](<Delivery eligibility API test results.png>)
+
+AI-enhanced illustration adapted from my CloudShell test screenshots.
